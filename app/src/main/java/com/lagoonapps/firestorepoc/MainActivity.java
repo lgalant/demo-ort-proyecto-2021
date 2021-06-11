@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-
+    // Obtener usuarios
     private void obtenerUsuarios() {
         db = FirebaseFirestore.getInstance();
         db.collection("pedidos")
