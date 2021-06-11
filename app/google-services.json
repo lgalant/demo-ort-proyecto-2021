@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669121311427",
+    "project_id": "pdp-2021",
+    "storage_bucket": "pdp-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669121311427:android:82c6f00339b43939822876",
+        "android_client_info": {
+          "package_name": "com.lagoonapps.firestorepoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669121311427-2bmnl1qqd1qiak0rea0075fq8odrmeuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj6_g5-EfJvQEwAvCMGsukuhrUtbaZg6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669121311427-2bmnl1qqd1qiak0rea0075fq8odrmeuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
